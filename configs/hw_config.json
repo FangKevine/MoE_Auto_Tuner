@@ -1,0 +1,17 @@
+{
+    "chiplet_arch": {
+        "num_chiplets": 16,
+        "clock_freq_GHz": 2.0,
+        "static_power_W": 2.0
+    },
+    "energy_model": {
+        "mac_energy_pJ": 0.5,
+        "sram_read_pJ_per_byte": 1.2,
+        "sram_write_pJ_per_byte": 1.5,
+        "d2d_link_pJ_per_bit": 0.8
+    },
+    "thermal_limits": {
+        "ambient_temp_C": 45.0,
+        "max_safe_temp_C": 85.0
+    }
+}
