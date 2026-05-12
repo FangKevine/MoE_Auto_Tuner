@@ -1,0 +1,1 @@
+{"architecture": {"num_experts_total": 128, "hidden_dim": 1024, "ffn_dim": 4096, "routing_strategy": "top-1"}, "workload": {"batch_size": 128, "seq_length": 2048, "simulation_time_ms": 7000.0}}

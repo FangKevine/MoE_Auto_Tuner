@@ -1,8 +1,8 @@
 {
     "architecture": {
-        "num_experts_total": 32,
-        "hidden_dim": 4096,
-        "ffn_dim": 14336,
+        "num_experts_total": 128,
+        "hidden_dim": 1024,
+        "ffn_dim": 4096,
         "routing_strategy": "top-2"
     },
     "workload": {
